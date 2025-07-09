@@ -14,7 +14,7 @@ npm install react-native-double-tap-reaction
 ```
 Or using yarn:
 ```
-yarn add react-native-double-tap-reaction\
+yarn add react-native-double-tap-reaction
 ```
 ## Usage
 ```
